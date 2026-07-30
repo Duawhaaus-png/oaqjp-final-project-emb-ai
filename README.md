@@ -1,4 +1,4 @@
-# Emotion Detector (Watson NLP + Flask)
+# Final Project (Watson NLP + Flask)
 
 An AI-based web application that detects the emotions (anger, disgust, fear,
 joy, sadness) expressed in a piece of text, using the Watson NLP
